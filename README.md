@@ -113,10 +113,10 @@ I’m passionate about solving real-world problems through code and building sma
 
 ### 📫 Contact Me
 
-📧 **Email:** junior@email.com  
-💬 **WhatsApp:** +244 XXX XXX XXX  
-💼 **Upwork:** [upwork.com/freelancers/~juniorchiquete](https://www.upwork.com/freelancers/~juniorchiquete)  
-🎯 **Fiverr:** [fiverr.com/juniorchiquete](https://www.fiverr.com/juniorchiquete)  
+📧 **Email:** juniorchiquete899@gmail.com  
+💬 **WhatsApp:** +244 937473535  
+💼 **Upwork:** [upwork.com/freelancers/~juniorchiquete](https://www.upwork.com/freelancers/~01aa39f3b7fa259937?mp_source=share)                           
+🎯 **Fiverr:** [fiverr.com/juniorchiquete](https://www.fiverr.com/juniorchiquete)      
 🔗 **LinkedIn:** [linkedin.com/in/juniorchiquete](https://www.linkedin.com)
 </br></br>
 
