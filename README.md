@@ -42,7 +42,7 @@ I create smart solutions that connect APIs, automate tasks, and simplify digital
 ### 📫 Get in Touch
 - ✉️ **Email:** juniorchiquete899@email.com  
 - 💬 **WhatsApp:** +244 937473535
-- 💼 **Upwork:** [upwork.com/freelancers/~juniorchiquete]([https://www.upwork.com](https://www.upwork.com/freelancers/~01aa39f3b7fa259937?mp_source=share))  
+- 💼 **Upwork:** [upwork.com/freelancers/~juniorchiquete](https://www.upwork.com/freelancers/~01aa39f3b7fa259937?mp_source=share)  
 - 🎯 **Fiverr:** [fiverr.com/juniorchiquete](https://www.fiverr.com)  
 - 🔗 **LinkedIn:** [linkedin.com/in/juniorchiquete](https://www.linkedin.com)
 
