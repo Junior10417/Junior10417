@@ -1,4 +1,4 @@
-#  Junior Chiquete
+# Hi I'm  Junior Chiquete
 
 **`Python Developer | Automation & Bot Specialist`**
 
