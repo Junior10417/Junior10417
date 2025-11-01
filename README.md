@@ -1,52 +1,124 @@
-# 👋 Hi, I'm Junior Chiquete
+# 🤖 Junior Chiquete
 
-💡 A Python developer passionate about **automation, bots, and AI integrations**.  
-I create smart solutions that connect APIs, automate tasks, and simplify digital workflows.
+**`Python Developer | Automation & Bot Specialist`**
 
----
-
-### 🚀 What I Do
-- 🤖 **Bot Development** — Telegram and WhatsApp bots with Python (using APIs, Flask, Selenium)
-- ⚙️ **Automation** — Web scraping, task automation, and smart process scripts
-- 🧩 **API Integration** — OpenAI (ChatGPT), Telegram, WhatsApp, and other third-party APIs
-- 🌐 **Web Development** — Flask apps and small web dashboards
+I'm a Python developer focused on creating **Telegram and WhatsApp bots**, **task automations**, and **AI integrations** using modern frameworks like Flask and Selenium.  
+I’m passionate about solving real-world problems through code and building smart systems that save time and boost productivity.
 
 ---
 
-### 🧰 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="left">
+    <a href="https://www.upwork.com/freelancers/~01aa39f3b7fa259937?mp_source=share">
+        <img 
+            alt="Upwork Profile" 
+            title="Hire me on Upwork" 
+            src="https://img.shields.io/badge/Upwork-Freelancer-14a800?style=for-the-badge&logo=upwork&logoColor=white"
+        />
+    </a>
+    <a href="https://www.fiverr.com/juniorchiquete">
+        <img 
+            alt="Fiverr Profile" 
+            title="Hire me on Fiverr" 
+            src="https://img.shields.io/badge/Fiverr-Freelancer-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
-### 📚 Currently Learning
-- Advanced AI automation (ChatGPT + custom APIs)
-- Backend development with Flask and FastAPI
-- Scalable bot architectures and deployment
+### 🧠 Languages & Technologies
+
+<img 
+    align="left" 
+    alt="Python"
+    title="Python"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Flask"
+    title="Flask"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Selenium"
+    title="Selenium"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="OpenAI"
+    title="OpenAI"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript"
+    title="JavaScript"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML5"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS"
+    title="CSS3"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git"
+    title="Git"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
 
 ---
 
-### 🌟 Featured Projects
-- [🤖 Telegram ChatGPT Bot](https://github.com/juniorchiquete/bot-telegram-chatgpt) – ChatGPT-powered Telegram assistant  
-- [⚙️ WhatsApp Automation Script](https://github.com/juniorchiquete/auto-whatsapp) – Automate WhatsApp tasks using Selenium  
-- [🧩 Flask API Starter](https://github.com/juniorchiquete/flask-api-bot) – Simple Flask API for bots and integrations
+### 📊 Estatísticas
 
----
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=junior10417&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-### 📫 Get in Touch
-- ✉️ **Email:** juniorchiquete899@email.com  
-- 💬 **WhatsApp:** +244 937473535
-- 💼 **Upwork:** [upwork.com/freelancers/~juniorchiquete](https://www.upwork.com/freelancers/~01aa39f3b7fa259937?mp_source=share)  
-- 🎯 **Fiverr:** [fiverr.com/juniorchiquete](https://www.fiverr.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/juniorchiquete](https://www.linkedin.com)
+</p>
 
----
+### 📫 Contact Me
 
-> “Automation doesn’t replace creativity — it amplifies it.”  
+📧 **Email:** junior@email.com  
+💬 **WhatsApp:** +244 XXX XXX XXX  
+💼 **Upwork:** [upwork.com/freelancers/~juniorchiquete](https://www.upwork.com/freelancers/~juniorchiquete)  
+🎯 **Fiverr:** [fiverr.com/juniorchiquete](https://www.fiverr.com/juniorchiquete)  
+🔗 **LinkedIn:** [linkedin.com/in/juniorchiquete](https://www.linkedin.com)
+</br></br>
+
+> “Automation is not just about saving time — it's about creating smarter ways to think, build, and grow.”  
 > — *Junior Chiquete*
